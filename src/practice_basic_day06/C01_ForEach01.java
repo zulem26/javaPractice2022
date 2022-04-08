@@ -15,5 +15,6 @@ public class C01_ForEach01 {
             }
         }
         System.out.println();
+        System.out.println();
     }
 }
