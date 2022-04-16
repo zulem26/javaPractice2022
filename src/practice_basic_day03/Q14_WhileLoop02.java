@@ -9,24 +9,21 @@ public class Q14_WhileLoop02 {
         */
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
 
+        Scanner scan=new Scanner(System.in);
+        System.out.print("Lütfen bir sayi giriniz :");
+        int sayi =scan.nextInt();
 
-        int bolen = 1;
-        int sayi =1;
+        //int count=0; kod calisiyor ama while kural baslangcc degeri gereklidir
+        while(sayi>0)
+        {
+            if (sayi%2==1)
+                System.out.println(sayi);
 
-        while(bolen<sayi){
-            System.out.println("lutfen bir sayi giriniz : ");
-            sayi = scan.nextInt();
-            if (bolen%2==1){
-                System.out.println(bolen);
-            }
-            bolen++;
+            sayi--;
         }
-        System.out.println(bolen);
-
-
-
-
+        scan.close();
     }
+
+
 }

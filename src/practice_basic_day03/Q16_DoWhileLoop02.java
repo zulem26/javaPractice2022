@@ -29,7 +29,7 @@ public class Q16_DoWhileLoop02 {
             else {
                 System.out.println("You entered wrong word.(string deki karakter sayisi cift)");
             }
-        }while((word.length()%2==0 && word.length()>=3) );
+        }while(!(word.length()%2==1 && word.length()>=3) );
 
     }
 

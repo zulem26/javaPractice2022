@@ -8,7 +8,7 @@ public class Q13_Ternary {
      */
     public static void main(String[] args) {
 
-        int fiyat = 22 ;
+        int fiyat = 10 ;
 
         String sonuc = (fiyat < 10) ? "ucuz" : fiyat < 20 ? "normal" : "pahali";
 

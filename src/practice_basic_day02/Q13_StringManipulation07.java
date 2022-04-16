@@ -11,11 +11,6 @@ public class Q13_StringManipulation07 {
      * xyaz   ==   false
      */
     public static void main(String[] args) {
-
-
-
-
-
         String str = "abcdxyzm";
         boolean xyzIceriyorMu=false;
         if (str.contains("xyz")) {
@@ -26,27 +21,6 @@ public class Q13_StringManipulation07 {
             System.out.println(xyzIceriyorMu);
         }
 
-        // bu sorunun cozumunu basit sekilde paylastim... method creation ile cozmenizi istiyorum,
-        // sonra paylasacagim..
-
-
-        String str1 = "adfaxyz";
-        boolean varMi=false;
-
-
-
-        dizimiVarMi(str1,varMi);
-
-    }
-
-    public static void dizimiVarMi(String str1, boolean varMi) {
-        if (str1.contains("xyz")){
-            varMi = true;
-            System.out.println(varMi);
-        } else{
-            varMi = false;
-            System.out.println(varMi);
-        }
-
+        // bu sorunun cozumunu basit sekilde paylastim... method creation ile cozmenizi istiyorum, sonra paylasacagim..
     }
 }

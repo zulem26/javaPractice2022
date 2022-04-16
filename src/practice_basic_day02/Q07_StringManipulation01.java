@@ -19,11 +19,6 @@ public class Q07_StringManipulation01 {
 
         System.out.println("your full name is: "+fullname);
 
-        String string1 = "01234";
-        String string2 = "56789";
-
-        System.out.println(string1.concat(string2));
-        System.out.println(string1+string2);
 
 
         // 2 Strings olusturun -> string1 = "01234" and string2 = "56789"

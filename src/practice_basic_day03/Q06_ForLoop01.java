@@ -16,24 +16,7 @@ public class Q06_ForLoop01 {
 
     public static void main(String[] args) {
 
-        int toplam1 = 0;
-
-        for (int i = 100; i >0 ; i--) {
-            if (i%13==0){
-                System.out.println(i + " ");
-                toplam1 += i;
-            }
-        }
-        System.out.println("toplam = " + toplam1);
-
-
-
-
-        System.out.println("--------------------------");
-
-
-
-        /*int toplam = 0;
+        int toplam = 0;
         System.out.println("istenen sonuc : "); //defalarca yazirmasin diye dongu disina yazdim
         for (int i = 100; i >= 0; i--) {
             if (i % 13 == 0) {
@@ -45,8 +28,6 @@ public class Q06_ForLoop01 {
         }
         System.out.println();
         System.out.println("toplam = " + toplam);
-
-         */
 
     }
 }

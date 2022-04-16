@@ -27,11 +27,7 @@ public class Q07_Arrays {
         }
 
         System.out.println("min = " + min);
-
-
-
-
-}
+    }
 
 
 }

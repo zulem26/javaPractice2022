@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Q04_SwitchCase02 {
         /*
-		 * Kullanicidan ilk 3 buyuk harfden biri secildiginde cumle yazdiran kod yaziniz
-		 * (switch case kullanin)
+		 * Kullanicidan ilk 3 buyuk harfden biri secildiginde cumle yazdiran kod yaziniz (switch case kullanin)
 		 * ornek
 		 *  Kullanici  : A , B , C harflerinden birini secsin
 			 A'yi secmis ise, ==> Java is easy
@@ -29,25 +28,6 @@ public class Q04_SwitchCase02 {
                                 break;
                         default :
                                 System.out.println("Gecerli bir secim yapiniz");
-                }
-
-        Scanner Scanner = new Scanner(System.in);
-                System.out.println("lutfen bir harf seciniz \nA\nB\nC");
-                char sec = Scanner.next().toUpperCase().charAt(0);
-
-                switch (sec) {
-
-                        case 'A' :
-                                System.out.println("java kolay");
-                        break;
-                        case 'B' :
-                                System.out.println("java eglenceli");
-                                break;
-                        case 'C' :
-                                System.out.println("java calismam gerek");
-                                break;
-                        default:
-                                System.out.println("gecerli bir secim yapiniz");
                 }
 
         }

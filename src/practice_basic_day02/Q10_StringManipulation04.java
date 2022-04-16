@@ -20,8 +20,6 @@ public class Q10_StringManipulation04 {
         System.out.println("bir string giriniz :");
         String str = scan.next();
 
-
-
         if(str.length()>=3){
             System.out.print(str.substring(str.length()-2) + str.substring(str.length()-2) + str.substring(str.length()-2) );
         }else

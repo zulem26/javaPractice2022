@@ -10,7 +10,7 @@ public class Q18_StringManipulation12 {
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
 
-        int bosluk = str.indexOf(" ");
+        int bosluk = str.indexOf(' ');
 
         if (bosluk == -1 && !(str.isEmpty())) {
             System.out.println("bosluk yoktur");

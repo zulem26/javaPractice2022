@@ -1,6 +1,5 @@
 package practice_basic_day02;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Q11_StringManipulation05 {
@@ -27,7 +26,7 @@ public class Q11_StringManipulation05 {
                             kelime2+" "+kelime3+" " +
                             kelime4 +"."); //Cesaret insana sinirlarini ogretir.
 
-
+        scan.close();
 
     }
 }

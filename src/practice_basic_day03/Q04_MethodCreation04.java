@@ -34,27 +34,10 @@ public class Q04_MethodCreation04 {
             Scanner scan = new Scanner(System.in);
             System.out.println("Lutfen bir string giriniz :");
             String yazi = scan.nextLine();
-            System.out.println("lutfen bir string daha giriniz :");
-            String cumle = scan.nextLine();
 
             sumOfDigit(yazi);
-            sayiToplama(cumle);
-
-
         }
-
-    public static void sayiToplama(String str1) {
-
-            int toplam = 0;
-        for (int i = 0; i <str1.length() ; i++) {
-            if (Character.isDigit(str1.charAt(i))){
-                toplam += Integer.valueOf("" + str1.charAt(i));
-            }
-        }
-        System.out.println("girilen stringdeki sayilarin toplami" + toplam);
-    }
-
-    public static void sumOfDigit(String str) {
+            public static void sumOfDigit(String str) {
 
                 int sum = 0;
 

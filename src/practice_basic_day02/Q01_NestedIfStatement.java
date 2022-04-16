@@ -20,15 +20,6 @@ public class Q01_NestedIfStatement {
         System.out.print("yasinizi giriniz :");
         int age = scan.nextInt();
 
-
-
-
-
-
-
-
-
-
         if (age >= 18) {
             System.out.println("yasi oy kullanmaya uygundur");
             if (age >= 70){ //age >= 70

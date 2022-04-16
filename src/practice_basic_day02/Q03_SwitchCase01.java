@@ -17,30 +17,6 @@ public class Q03_SwitchCase01 {
 */
     public static void main(String[] args) {
 
-        String gun = "Pazartesi";
-
-        switch (gun){
-
-            case "Pazartesi" :
-            case "Sali" :
-                System.out.println("java dersi gunleri");
-                break;
-            case "Persembe" :
-            case "Cuma" :
-                System.out.println("selenyum ders gunleri");
-                break;
-            case "Carsamba" :
-            case "Cumartesi" :
-                System.out.println("sql ders gunleri");
-                break;
-            default:
-                System.out.println("izin gunu");
-        }
-
-
-
-
-
         String day = "Friday";
 
         switch (day) {

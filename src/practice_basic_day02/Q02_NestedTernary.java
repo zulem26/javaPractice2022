@@ -15,14 +15,6 @@ public class Q02_NestedTernary {
         char finalNotu = 'B';
 
         // String result ="";
-        char ffinalNotu = 'A';
-
-
-        String sonuc = (ffinalNotu == 'A') ? "gayet basarili" :
-                (ffinalNotu == 'B') ? "basarili" :
-                        (ffinalNotu == 'C') ? "ha gayret" : "digerleri";
-        System.out.println(sonuc);
-
 
         String result = (finalNotu == 'A') ? "Gayet Basarili" :
                 (finalNotu == 'B') ? "Basarili" :

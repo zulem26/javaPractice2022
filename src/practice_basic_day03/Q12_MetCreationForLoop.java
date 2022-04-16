@@ -14,8 +14,6 @@ public class Q12_MetCreationForLoop {
         String str = scan.nextLine();
         System.out.println("string ifadenin tersi : " + reverseString(str));
 
-
-
     }
 
     public static String reverseString (String str) {

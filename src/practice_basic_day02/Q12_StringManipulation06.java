@@ -17,25 +17,6 @@ public class Q12_StringManipulation06 {
 		 */
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("bir string giriniz :");
-        String str1 = scanner.next().toLowerCase();
-
-        if (str1.startsWith("gh")){
-            System.out.println(str1);
-        }else if (str1.startsWith("g")){
-            System.out.println(str1.charAt(0) + str1.substring(2));
-        } else if (str1.charAt(1)=='h'){
-            System.out.println(str1.substring(1));
-        } else {
-            System.out.println(str1.substring(2));
-        }
-
-
-
-
-
-
         Scanner scan  = new Scanner(System.in);
         System.out.print("bir string giriniz :");
         String str = scan.next().toLowerCase();

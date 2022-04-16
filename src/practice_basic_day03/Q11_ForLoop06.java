@@ -29,19 +29,7 @@ public class Q11_ForLoop06 {
             System.out.println(); //bu bosluk olmazsa hepsini yan yana yazar
         }
 
-
-        Scanner scanner = new Scanner(System.in);
-        int satir = scan.nextInt();
-        int sutun = scan.nextInt();
-        for (int i = 1; i <= satir; i++) {
-            for (int j = 1; j <= sutun ; j++) {
-                System.out.print(" & ");
-            }
-            System.out.println();
-        }
-
-
-
+        scan.close();
 
     }
 

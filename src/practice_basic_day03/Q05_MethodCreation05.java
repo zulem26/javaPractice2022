@@ -13,10 +13,6 @@ public class Q05_MethodCreation05 {
         System.out.print("47 den kucuk pozitif bir sayi giriniz : ");
         int sayi = scanner.nextInt();
         fibonacci(sayi);
-
-
-
-
     }
 
     public static void fibonacci(int sayi){

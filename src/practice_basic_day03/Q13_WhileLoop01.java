@@ -11,7 +11,7 @@ public class Q13_WhileLoop01 {
         int sayi = scan.nextInt();  //2562
 
         System.out.println(basamakToplama(sayi));
-        //basamakToplamaDoWhile(sayi); //2.cozum
+        basamakToplamaDoWhile(sayi); //2.cozum
 
         scan.close();
     }
@@ -27,7 +27,7 @@ public class Q13_WhileLoop01 {
         return toplam;
 
     }
-/*
+
     //2.cozum do-while ile..
     public static void basamakToplamaDoWhile(int sayi){ //bu methodda her adimda toplami ve kalani yazdirdim..
                                                         // ve sonrasinda yazdirmak icin main methodda cagirdim
@@ -43,7 +43,5 @@ public class Q13_WhileLoop01 {
         while (sayi > 0);
         System.out.println("Do while ile Toplam = " + toplam);
 
- */
-
     }
-
+}
