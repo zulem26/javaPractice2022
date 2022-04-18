@@ -2,356 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a88835-350f-4e02-8b43-7b018132954e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q01_CountsOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q02_MergeCertainCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q03_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q05_ForFlashBack_Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/JavaMathClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q01_ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q02_ArmstrongNumber_4Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q03_FibonacciListNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q04_PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions2/Q05_DifferenceBetweenArray_LargestAndSmallestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q01_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q02_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q03_WhileCountSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q04_FrequencyOfCertainChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q05_ArrayListTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q06_MultiDimensolArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q01_UniqeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q02_CreateRandomList_SetList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q03_HackerLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q04_TestKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q05_SpecialCharRemoveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions4/Q06_MultipleMethodVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q01_UsingDoWhilePrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q02_PrintEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q03_CountFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q04_PrintVowelsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q05_UsingDoWhileWithCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewQuestions5/Q06_CountsOfRepeatingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q01_ForEach01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q11_Varargs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free1/Q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_free2/Q08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions1/Q01_CountsOfCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions1/Q02_MergeCertainCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions1/Q03_PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions1/Q04_CountOfEnterCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions1/Q05_ForFlashBack_Q01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/JavaMathClassMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/Q01_ArmstrongNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/Q02_ArmstrongNumber_4Digits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/Q03_FibonacciListNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/Q04_PerfectNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions2/Q05_DifferenceBetweenArray_LargestAndSmallestElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q01_ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q02_Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q03_WhileCountSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q04_FrequencyOfCertainChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q05_ArrayListTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions3/Q06_MultiDimensolArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q01_UniqeArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q02_CreateRandomList_SetList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q03_HackerLanguage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q04_TestKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q05_SpecialCharRemoveArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions4/Q06_MultipleMethodVarargs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q01_UsingDoWhilePrintNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q02_PrintEvenNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q03_CountFactors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q04_PrintVowelsOfString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q05_UsingDoWhileWithCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/interviewQuestions5/Q06_CountsOfRepeatingElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q01_Sout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q02_Println_vs_print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q03_PrimitiveDataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q04_JavaVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q05_EscapeSequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q06_Average.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q07_Converting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q08_Scanner01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q09_Scanner02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q10_IfStatement01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q11_IfStatement02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q12_IfStatement03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day01/Q13_Ternary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q01_NestedIfStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q02_NestedTernary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q03_SwitchCase01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q04_SwitchCase02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q05_SwitchCase03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q05_SwitchCase03_firstVersion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q06_NestedIfandTernary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q07_StringManipulation01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q08_StringManipulation02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q09_StringManipulation03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q10_StringManipulation04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q11_StringManipulation05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q12_StringManipulation06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q13_StringManipulation07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q14_StringManipulation08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q15_StringManipulation09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q16_StringManipulation10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q17_StringManipulation11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q18_StringManipulation12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day02/Q19_StringManipulation13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q01_MethodCreation01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q02_MethodCreation02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q03_MethodCreation03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q04_MethodCreation04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q05_MethodCreation05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q06_ForLoop01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q07_ForLoop02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q08_ForLoop03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q09_ForLoop04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q10_ForLoop05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q11_ForLoop06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q12_MetCreationForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q13_WhileLoop01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q14_WhileLoop02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q15_DoWhileLoop01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day03/Q16_DoWhileLoop02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q01_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q02_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q03_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q04_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q05_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q06_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q07_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q08_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q09_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q10_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q11_ArraysList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q12_ArraysList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day04/Q13_ArraysList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day05/BookClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day05/Constructor_ThisKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day05/Ornek.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q01_ForEach01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q02_ForEach02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q03_LocalDate01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q04_LocalDate02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q05_LocalDate03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q06_LocalDate04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q07_LocalDate05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q08_LocalDate06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q09_ZoneDateTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q10_Varargs01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_basic_day06/Q11_Varargs02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free1/Q07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPractice2022/src/practice_free2/Q08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/interviewQuestions1/Q01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/interviewQuestions1/Q02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/interviewQuestions1/Q03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/interviewQuestions1/Q04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q01_Sout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q02_Println_vs_print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q03_PrimitiveDataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q04_JavaVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q05_EscapeSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q06_Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q07_Converting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q08_Scanner01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q09_Scanner02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q10_IfStatement01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q11_IfStatement02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q12_IfStatement03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day01/Q13_Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q01_NestedIfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q02_NestedTernary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q03_SwitchCase01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q04_SwitchCase02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q05_Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q05_SwitchCase03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q05_SwitchCase03_firstVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q06_NestedIfandTernary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q07_StringManipulation01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q08_StringManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q08_StringManipulation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q09_StringManipulation03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q10_StringManipulation04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q11_StringManipulation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q12_StringManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q12_StringManipulation06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q13_StringManipulation07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q14_StringManipulation08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q15_StringManipulation09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q16_StringManipulation10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q17_StringManipulation11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q18_StringManipulation12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day02/Q19_StringManipulation13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Calisma1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q01_MethodCreation01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q02_MethodCreation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q03_MethodCreation03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q04_MethodCreation04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q05_MethodCreation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q06_ForLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q07_ForLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q08_ForLoop03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q09_ForLoop04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q10_ForLoop05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q11_ForLoop06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q12_MetCreationForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q13_WhileLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q14_WhileLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q15_DoWhileLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day03/Q16_DoWhileLoop02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Calisma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q01_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q02_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q03_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q04_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q05_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q06_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q07_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q08_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q09_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q10_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q11_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q12_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day04/Q13_ArraysList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day05/Constructor_ThisKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day05/Instance_Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day05/ObjeOlusturma_ogretmen/BookClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/C01_ForEach01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q02_ForEach02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q03_LocalDate01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q04_LocalDate02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q05_LocalDate03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q06_LocalDate04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q07_LocalDate05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q08_LocalDate06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q09_ZoneDateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/practice_basic_day06/Q10_Varrags01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/ze_calismalar/Z01_FaktoryelCalisma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice2022/ze_calismalar/Z02_ArrayToplamYazdirma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions1/Q04_CountOfEnterCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q01_Sout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q01_Sout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q02_Println_vs_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q02_Println_vs_print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q03_PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q03_PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q04_JavaVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q04_JavaVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q05_EscapeSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q05_EscapeSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q06_Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q06_Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q07_Converting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q07_Converting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q08_Scanner01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q08_Scanner01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q09_Scanner02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q09_Scanner02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q10_IfStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q10_IfStatement01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q11_IfStatement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q11_IfStatement02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q12_IfStatement03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q12_IfStatement03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q13_Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day01/Q13_Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q01_NestedIfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q01_NestedIfStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q02_NestedTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q02_NestedTernary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q03_SwitchCase01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q03_SwitchCase01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q04_SwitchCase02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q04_SwitchCase02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q05_Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03_firstVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03_firstVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q06_NestedIfandTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q06_NestedIfandTernary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q07_StringManipulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q07_StringManipulation01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q08_StringManipulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q08_StringManipulation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q08_StringManipulation02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q09_StringManipulation03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q09_StringManipulation03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q10_StringManipulation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q10_StringManipulation04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q11_StringManipulation05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q11_StringManipulation05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q12_StringManipulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q12_StringManipulation06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q12_StringManipulation06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q13_StringManipulation07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q13_StringManipulation07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q14_StringManipulation08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q14_StringManipulation08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q15_StringManipulation09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q15_StringManipulation09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q16_StringManipulation10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q16_StringManipulation10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q17_StringManipulation11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q17_StringManipulation11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q18_StringManipulation12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q18_StringManipulation12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q19_StringManipulation13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day02/Q19_StringManipulation13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Calisma1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q01_MethodCreation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q01_MethodCreation01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q02_MethodCreation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q02_MethodCreation02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q03_MethodCreation03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q03_MethodCreation03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q04_MethodCreation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q04_MethodCreation04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q05_MethodCreation05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q05_MethodCreation05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q06_ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q06_ForLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q07_ForLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q07_ForLoop02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q08_ForLoop03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q08_ForLoop03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q09_ForLoop04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q09_ForLoop04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q10_ForLoop05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q10_ForLoop05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q11_ForLoop06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q11_ForLoop06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q12_MetCreationForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q12_MetCreationForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q13_WhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q13_WhileLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q14_WhileLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q14_WhileLoop02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q15_DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q15_DoWhileLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q16_DoWhileLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day03/Q16_DoWhileLoop02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Calisma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q01_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q01_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q02_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q02_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q03_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q03_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q04_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q04_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q05_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q05_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q06_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q06_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q07_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q07_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q08_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q08_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q09_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q09_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q10_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q10_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q11_ArraysList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q11_ArraysList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q12_ArraysList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q12_ArraysList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q13_ArraysList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day04/Q13_ArraysList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/Constructor_ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day05/Constructor_ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/Instance_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day05/Ornek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/BookClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day05/BookClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/C01_ForEach01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q02_ForEach02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q02_ForEach02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q03_LocalDate01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q03_LocalDate01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q04_LocalDate02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q04_LocalDate02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q05_LocalDate03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q05_LocalDate03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q06_LocalDate04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q06_LocalDate04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q07_LocalDate05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q07_LocalDate05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q08_LocalDate06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q08_LocalDate06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q09_ZoneDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q09_ZoneDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q10_Varrags01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_basic_day06/Q10_Varargs01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ze_calismalar/Z01_FaktoryelCalisma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ze_calismalar/Z02_ArrayToplamYazdirma.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaPractice2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPractice2022.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q01_CountsOfCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q02_MergeCertainCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q03_PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q04_CountOfEnterCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions1/Q05_ForFlashBack_Q01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/JavaMathClassMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/Q01_ArmstrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/Q02_ArmstrongNumber_4Digits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/Q03_FibonacciListNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/Q04_PerfectNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions2/Q05_DifferenceBetweenArray_LargestAndSmallestElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q01_ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q02_Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q03_WhileCountSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q04_FrequencyOfCertainChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q05_ArrayListTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q06_MultiDimensolArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q01_UniqeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q02_CreateRandomList_SetList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q03_HackerLanguage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q04_TestKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q05_SpecialCharRemoveArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions4/Q06_MultipleMethodVarargs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q01_UsingDoWhilePrintNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q02_PrintEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q03_CountFactors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q04_PrintVowelsOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q05_UsingDoWhileWithCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions5/Q06_CountsOfRepeatingElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q01_Sout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q02_Println_vs_print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q03_PrimitiveDataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q04_JavaVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q05_EscapeSequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q06_Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q07_Converting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q08_Scanner01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q09_Scanner02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q10_IfStatement01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q11_IfStatement02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q12_IfStatement03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day01/Q13_Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q01_NestedIfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q02_NestedTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q03_SwitchCase01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q04_SwitchCase02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q05_SwitchCase03_firstVersion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q06_NestedIfandTernary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q07_StringManipulation01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q08_StringManipulation02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q09_StringManipulation03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q10_StringManipulation04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q11_StringManipulation05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q12_StringManipulation06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q13_StringManipulation07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q14_StringManipulation08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q15_StringManipulation09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q16_StringManipulation10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q17_StringManipulation11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q18_StringManipulation12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day02/Q19_StringManipulation13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q01_MethodCreation01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q02_MethodCreation02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q03_MethodCreation03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q04_MethodCreation04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q05_MethodCreation05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q06_ForLoop01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q07_ForLoop02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q08_ForLoop03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q09_ForLoop04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q10_ForLoop05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q11_ForLoop06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q12_MetCreationForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q13_WhileLoop01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q14_WhileLoop02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q15_DoWhileLoop01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day03/Q16_DoWhileLoop02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q01_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q02_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q03_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q04_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q05_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q06_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q07_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q08_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q09_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q10_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q11_ArraysList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q12_ArraysList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day04/Q13_ArraysList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/BookClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/Constructor_ThisKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/ObjectClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/ObjeOlusturma_ogretmen/OgretmenBilgileri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day05/Ornek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q01_ForEach01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q02_ForEach02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q03_LocalDate01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q04_LocalDate02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q05_LocalDate03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q06_LocalDate04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q07_LocalDate05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q08_LocalDate06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q09_ZoneDateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q10_Varargs01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_basic_day06/Q11_Varargs02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free1/Q07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_free2/Q08.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,6 +145,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -401,11 +177,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/practice_basic_day04" />
       <recent name="$PROJECT_DIR$/src/practice_basic_day03" />
       <recent name="$PROJECT_DIR$/src/practice_basic_day02" />
-      <recent name="$PROJECT_DIR$/src/practice_basic_day01" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Q05_SpecialCharRemoveArray">
@@ -470,6 +246,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javaPractice2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javaPractice2022" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
